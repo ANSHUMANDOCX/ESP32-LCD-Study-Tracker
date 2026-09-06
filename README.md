@@ -6,6 +6,8 @@ Its a Compact Server based study tracker using a OLED display and a ESP32 that h
 - 1602 LCD Display
 - PCB with onboard programmer
 
+# Why i made this 
+This device is made to solve one of the problems i face while studying i keep on getting distracted while i do something and using this device i will be able to keep track of my productive hours so i can get a reality check on long i think i am productive vs how long i actually am !!. 
 # Features
 - The system uses Display to set timer and keep track of your productive hours. It also has a webpage hosted on the ESP that helps you check on the hours spent at a glance. Also one can set target for the day how much time one needs to be productive for.
 - It also has a Log system that logs the time we have spent on something and helps us keep track of how productive one has been. It also has a option to download the log all together as a csv file.
