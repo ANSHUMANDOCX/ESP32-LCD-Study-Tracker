@@ -16,10 +16,12 @@ Its a Compact Server based study tracker using a OLED display and a ESP32 that h
 # Programming
 The code is very simple you will need to import the project in platform io and once flash the system image to load the website on the ESP and next upload the main.c file thats it. Also the subject/ Topic one needs to focus on is under a placeholder so anyone can change it according to their needs.  
 
-# PCB and Schematic
+# PCB and Schematic and CAD
 <img width="1016" height="427" alt="image" src="https://github.com/user-attachments/assets/4fd445bd-c8af-4f44-bb31-30f03f96f22e" />
 <img width="639" height="260" alt="image" src="https://github.com/user-attachments/assets/a3e543e0-446c-422c-adaa-5a907abbe7ba" />
 <img width="685" height="318" alt="image" src="https://github.com/user-attachments/assets/71344dc0-5700-4214-b9ec-a0479cfb8c6c" />
+<img width="521" height="405" alt="Screenshot 2026-09-06 131053" src="https://github.com/user-attachments/assets/5c92262d-6674-4285-80ba-b479d774f83a" />
+
 
 
 # BOM
