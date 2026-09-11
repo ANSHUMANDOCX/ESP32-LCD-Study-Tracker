@@ -41,7 +41,7 @@ const unsigned long stopLongPressMs = 1200UL;
 Preferences prefs;
 
 // ---------------- Wi-Fi / NTP ----------------
-const char* ssid = "Airtel_Ashu";
+const char* ssid = "SSID";
 const char* password = "28082005";
 IPAddress local_IP(192,168,1,51);
 IPAddress gateway(192,168,1,1);
