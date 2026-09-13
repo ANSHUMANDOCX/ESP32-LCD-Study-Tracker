@@ -24,12 +24,20 @@ The code is very simple you will need to import the project in platform io and o
 <img width="685" height="318" alt="image" src="https://github.com/user-attachments/assets/71344dc0-5700-4214-b9ec-a0479cfb8c6c" />
 <img width="521" height="405" alt="Screenshot 2026-09-06 131053" src="https://github.com/user-attachments/assets/5c92262d-6674-4285-80ba-b479d774f83a" />
 
+## Build 
+https://youtu.be/7US3xBiMZxA?si=RdkPRtCYgrZsQL8k
+https://youtu.be/MXmio46lXlo?si=qvKTUyI2eKW5zzEd
+<img width="4160" height="3120" alt="IMG_20260913_182007" src="https://github.com/user-attachments/assets/d35c379e-162b-474e-ba36-0409cfb4f5c8" />
+
+<img width="4160" height="3120" alt="IMG_20260913_181957" src="https://github.com/user-attachments/assets/4a925660-7ae2-45d3-ac64-e458060c5466" />
+
 
 
 # BOM
 | Serial No | Product name          | Quantity | Supplier |   Price | Total | Link                                                      |
 | --------: | --------------------- | -------: | -------- | ------: | ----: | --------------------------------------------------------- |
-|         1 | RC0603JR-070RL        |      100 | LCSC     | $0.0034 | $0.34 | [LCSC](https://www.lcsc.com/product-detail/C95177.html)   |
+|         1 | RC06
+03JR-070RL        |      100 | LCSC     | $0.0034 | $0.34 | [LCSC](https://www.lcsc.com/product-detail/C95177.html)   |
 |         2 | ME6217C33M5G          |        5 | LCSC     | $0.1219 | $0.61 | [LCSC](https://www.lcsc.com/product-detail/C427602.html)  |
 |         3 | CH343P                |        1 | LCSC     | $1.1227 | $1.12 | [LCSC](https://www.lcsc.com/product-detail/C2846043.html) |
 |         4 | ESP32-WROOM-32E-N4    |        1 | LCSC     | $3.7668 | $3.77 | [LCSC](https://www.lcsc.com/product-detail/C701341.html)  |
